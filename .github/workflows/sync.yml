@@ -1,0 +1,45 @@
+name: Sync TXT from upstream
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Create data dir
+        run: mkdir -p data
+
+      - name: Download and rename nodes
+        run: |
+          curl -L \
+          "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt" \
+          | grep '^vless://' \
+          | awk '{
+              split($0,a,"#");
+              printf "%s#us%04d\n", a[1], ++i
+            }' \
+          > data/cfg.txt
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/cfg.txt
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "sync: update cfg.txt"
+            git push
+          fi
