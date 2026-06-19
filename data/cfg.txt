@@ -1,6 +1,5 @@
-vless://AlfredConfig@164.38.155.135:443?type=ws&headerType=none&security=tls&encryption=none&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http%2F1.1&path=%2F&host=alfi.yas-nowin.ir&insecure=0#us0001
-vless://AlfredConfig@164.38.155.135:443?type=ws&security=tls&fp=chrome&sni=alfi.yas-nowin.ir&path=%2F&host=alfi.yas-nowin.ir#us0002
-vless://8d1a1b09-12d6-4b76-82f0-893cc805d9c0@46.173.25.146:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ru.crunch-crunch.com&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087#us0003
-vless://bbd01a89-4ffc-43e3-a91d-af3ec66f1c48@37.9.4.204:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=cloud.mail.ru&pbk=A41b2Th15KC7t1hSRTvkA3-CzZfv1DD1XOV2L5ICuA0#us0004
-vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@185.241.195.217:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc#us0005
-vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@nagatoro.kosmojoy.ru:443?type=tcp&security=reality&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc#us0006
+vless://70ee1dd4-5d67-49ac-b9c4-d0c08826116d@31.31.197.82:10000?type=grpc&security=reality&fp=qq&sni=max.ru&pbk=9xzdm_jzkLpqPjYVEJ_74EtFkQUGp6UG1TtaVLPng2s&sid=afee962d&serviceName=grpc2#us0001
+vless://8a59eb4c-d127-4f32-9f51-9a1be5086fc0@65.109.217.246:2026?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=yt2kyF7DABbLCwB49Hd3VuNu7-QN57GiLoeiD5vVg30&security=reality&sid=c576f7ccd9019b&sni=www.oracle.com&spx=%2F1xYs210rjIjteeD&type=tcp#us0002
+vless://ff76c582-77fa-4840-9247-729076fbab29@45.141.119.16:443?security=reality&encryption=none&pbk=1Txlqu4hCFzUPBSO6anONR0ql930aitMuh4ZcsJcxm4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ch-zrh-1.blook.network&sid=f7ef1b05#us0003
+vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@185.241.195.217:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc#us0004
+vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@185.241.195.217:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc#us0005
