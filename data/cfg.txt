@@ -1,3 +1,10 @@
-vless://57c77d07-bec3-4bf7-9b72-70ece40450f6@185.22.234.32:7443?encryption=none&fp=qq&path=/ws&security=tls&sni=mms-2.hysteria.ltd&type=ws#us0001
-vless://57c77d07-bec3-4bf7-9b72-70ece40450f6@194.55.239.181:7443?encryption=none&fp=qq&path=/ws&security=tls&sni=sw-1-al.hysteria.ltd&type=ws#us0002
-vless://57c77d07-bec3-4bf7-9b72-70ece40450f6@194.55.239.181:9443?encryption=none&fp=qq&path=/ws&security=tls&sni=sw-2-al.hysteria.ltd&type=ws#us0003
+vless://db7cae85-3c1a-4e4f-b317-7cdeaf419c5a@217.16.31.226:1829?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=max.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#us0001
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?encryption=none&type=raw&security=none#us0002
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?type=raw&fp=firefox#us0003
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?type=raw&security=none&fp=chrome#us0004
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=none&type=tcp#us0005
+vless://d3d932d2-ff06-4005-8ce7-b49b73f13967@95.163.208.184:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=ads.x5.ru&pbk=bAbF5K_pk8MRvVIXJfH65xYiksNPNFYqLHLwaTEHojQ#us0006
+vless://8fa126b3-56a1-4f24-9987-ef700dfcf5e2@217.16.31.86:1695?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#us0007
+vless://db7cae85-3c1a-4e4f-b317-7cdeaf419c5a@217.16.31.86:1695?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#us0008
+vless://db7cae85-3c1a-4e4f-b317-7cdeaf419c5a@217.16.31.86:1695?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#us0009
+vless://e69b8598-2910-4e43-97b6-d4effda2e5dc@82.202.158.188:544?type=xhttp&security=reality&fp=edge&pbk=xP3LIJ6-qQ51S89vFyW2PQeCjN921yVjN7pFDWKaswU&sid=1111&sni=www.amd.com&mode=auto#us0010
