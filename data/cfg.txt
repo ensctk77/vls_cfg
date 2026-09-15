@@ -1,0 +1,5 @@
+vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=edge#us0001
+vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=qq#us0002
+vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=android#us0003
+vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=ios#us0004
+vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=safari#us0005
